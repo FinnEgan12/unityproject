@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d42f98e4865287a42b90e22a8657c1a8
+timeCreated: 1441362885
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 45422
+  packageName: Post-apocalyptic heavy car of the survived F04
+  packageVersion: 1.0
+  assetPath: Assets/F04/Materials/car_destroyed.mat
+  uploadId: 80124
