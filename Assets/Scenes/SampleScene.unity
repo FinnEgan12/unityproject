@@ -656,6 +656,75 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e5c358a373d2fa840a2b94c42d8966af, type: 3}
+--- !u!1001 &50731634
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4.1952763
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 8.064254
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4.1952763
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.802503
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.568
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -19.13761
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_Name
+      value: Coke Can
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
 --- !u!1001 &64026371
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5218,6 +5287,75 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e5c358a373d2fa840a2b94c42d8966af, type: 3}
+--- !u!1001 &572225725
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.37616
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 10.334175
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 5.37616
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.862309
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.116
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.898633
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_Name
+      value: Coke Can (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
 --- !u!1001 &573256603
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16169,6 +16307,75 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 98a359d63c95b74479b90b53b0631766, type: 3}
+--- !u!1001 &1815669887
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.37616
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 10.334175
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 5.37616
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.862309
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.065
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.594
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.66848654
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.6715169
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.22655354
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.22553112
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90.259
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0.0010070801
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 37.287994
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
+      propertyPath: m_Name
+      value: Coke Can (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e34ff5887c2cf4937aec260ce5a56aa3, type: 3}
 --- !u!1001 &1816283506
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19356,3 +19563,6 @@ SceneRoots:
   - {fileID: 1858729384}
   - {fileID: 241611571}
   - {fileID: 484397880}
+  - {fileID: 50731634}
+  - {fileID: 572225725}
+  - {fileID: 1815669887}
